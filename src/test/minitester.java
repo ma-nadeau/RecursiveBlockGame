@@ -1,4 +1,6 @@
-import assignment3.* ;
+package src.test;
+
+import src.* ;
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
 import java.awt.*;
